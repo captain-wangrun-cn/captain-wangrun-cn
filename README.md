@@ -24,7 +24,9 @@
 **WakaTime**:  
 <!--START_SECTION:waka-->
 
-```txt
+```python
+Total Time: 2 hrs 34 mins
+
 Python     1 hr 24 mins    █████████████▒░░░░░░░░░░░   53.18 %
 CSS        30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
 Markdown   19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
