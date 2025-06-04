@@ -3,7 +3,7 @@
   简单好用的NoneBot AI聊天插件  
   主要语言: Python  
   项目类型: NoneBot插件
-<br>
+
 - [🔣 简易消息过滤器](https://github.com/captain-wangrun-cn/SimpleBotMessageFilter)  
   一个简易的，适用于onebotv11协议的，提供给bot的，消息过滤器  
   主要语言: Python  
@@ -22,7 +22,8 @@
 ```
 
 **WakaTime**:  
-[![wakatime](https://wakatime.com/badge/user/db32c6e0-3386-419d-be6d-093794085f58.svg)](https://wakatime.com/@db32c6e0-3386-419d-be6d-093794085f58)  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->  
 加入日期：2024 年 11 月 23 日
 
 ### 技术领域
