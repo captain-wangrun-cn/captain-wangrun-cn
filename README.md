@@ -1,7 +1,7 @@
 ### 精选项目
-- [N.O.R.A.Core](https://github.com/captain-wangrun-cn/nora.core)
-  一个ai伙伴(⚠vibecoding警告⚠)
-  (⚠暂不公开⚠) 
+
+- [🤖 N.O.R.A.Core](https://github.com/captain-wangrun-cn/nora.core)  
+  一个ai伙伴(⚠vibecoding警告⚠) (⚠暂不公开⚠)
   主要语言: Python  
   项目类型: AIAgent
 
