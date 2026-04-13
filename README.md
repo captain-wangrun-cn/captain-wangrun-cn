@@ -31,13 +31,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 340 hrs 47 mins
+Total Time: 342 hrs 28 mins
 
-Python                             220 hrs 1 min         ████████████████░░░░░░░░░   63.91 %
-Markdown                           47 hrs 6 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-Dart                               29 hrs 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Jinja                              9 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-HTML                               7 hrs 47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Python                             220 hrs 1 min         ████████████████░░░░░░░░░   63.60 %
+Markdown                           47 hrs 6 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Dart                               31 hrs 6 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Jinja                              9 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+HTML                               7 hrs 47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->  
