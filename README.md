@@ -54,6 +54,13 @@ Other                              54 hrs 44 mins        █▓░░░░░�
 - 尝试新事物
 - 乐于教别人
 
+### 早期代码（Gitee）
+早些时候没了解到GitHub，只知道Gitee。所以一些很老的代码都在上面，主要是小学以及初中前段
+
+[captain-explain-chn-wangrun](https://gitee.com/captain-explain-chn-wangrun)
+
+[WStudioGroup](https://gitee.com/wstudio_group)
+
 ### 其他
 - 蔚蓝档案忠实玩家  
 ![Blue Archive](./imgs/Blue_Archive_EN_logo.svg)
