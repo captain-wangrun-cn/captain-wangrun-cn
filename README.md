@@ -31,13 +31,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 794 hrs 4 mins
+Total Time: 799 hrs 37 mins
 
-Python                             358 hrs 37 mins       ██████████▒░░░░░░░░░░░░░░   41.69 %
-Markdown                           135 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Other                              66 hrs 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Lua                                60 hrs 35 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-C++                                56 hrs 2 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Python                             359 hrs 52 mins       ██████████▒░░░░░░░░░░░░░░   41.56 %
+Markdown                           136 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+Other                              66 hrs 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Lua                                60 hrs 35 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+C++                                56 hrs 2 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->  
